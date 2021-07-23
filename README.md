@@ -13,3 +13,11 @@ I have been exploring, how to classify audio signals, finally built a basic simp
 - crackling_fire
 - helicopter
 
+## REQUIREMENTS 
+
+- matplotlib
+- numpy~=1.19.5
+- tensorflow~=2.5.0
+- flask~=1.1.2
+- librosa~=0.8.1
+
