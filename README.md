@@ -21,3 +21,8 @@ I have been exploring, how to classify audio signals, finally built a basic simp
 - flask~=1.1.2
 - librosa~=0.8.1
 
+## RESULTS
+
+https://user-images.githubusercontent.com/40186859/126902468-af519f08-8446-43d9-a94a-8637420c2e70.mp4
+
+
